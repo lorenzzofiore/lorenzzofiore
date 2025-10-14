@@ -4,7 +4,7 @@
 - 📫 How to reach me @uilorenzzo / https://www.behance.net/uilorenzzo
 
 My website portfolio 
-https://lorenzzofiore.vercel.app/
+https://lorenzofiore.me/
 
 <!---
 lorenzzofiore/lorenzzofiore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
