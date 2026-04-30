@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Lorenzo
-- 📫 How to reach me @uilorenzzo / https://www.behance.net/uilorenzzo
+- Hi, I’m Lorenzo, Designer, Frontend Developer and AI Enthusiastic
+- Co-founder of Felins Solutions
+- How to reach me @uilorenzzo / https://www.behance.net/uilorenzzo
+
+Felins Solutions
+https://felins.tech
 
 My website portfolio 
-https://lorenzofiore.me/
+https://lorenzofiore.com/
 
 <!---
 lorenzzofiore/lorenzzofiore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
